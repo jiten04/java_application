@@ -1,2 +1,4 @@
-# java_application
-This code for maven java app for jfrog artifactory
+maven-java-web-application
+==========================
+
+Java Web Application Source code for Maven 101 Courses
